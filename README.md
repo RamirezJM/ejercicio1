@@ -9,6 +9,19 @@ ejercicio desplegado: https://ramirezjm.github.io/ejercicio1/
 ![Static Badge](https://img.shields.io/badge/Javascript-%23f0db4f)
 ![Static Badge](https://img.shields.io/badge/Vue-2342b883)
 
+La información de la página se sirve desde un archivo json con datos de locaciones, y las tarjetas se crean de manera dinámica usando v-for y componentes.
+
+  ```bash
+   [
+  {
+    "id": 1,
+    "name": "Cueva de Luciérnagas de Waitomo ",
+    "country": "Nueva Zelanda",
+    "continent": "Oceanía",
+    "image": "images/waitomo.jpg"
+  },....
+  ```
+
 <div>
   <img src="public/images/screenshot.jpg" width=500>
 </div>
