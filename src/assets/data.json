@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Cueva de Luciérnagas de Waitomo ",
+    "country": "Nueva Zelanda",
+    "continent": "Oceanía",
+    "image": "images/waitomo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Puerta al Infierno",
+    "country": "Turkmenistan",
+    "continent": "Asia",
+    "image": "images/hell.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cascadas Submarinas",
+    "country": "Mauricio",
+    "continent": "África",
+    "image": "images/waterfall.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Geyser Fly",
+    "country": "USA",
+    "continent": "América",
+    "image": "images/geyser.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kjeragbolten",
+    "country": "Noruega",
+    "continent": "Europa",
+    "image": "images/norway.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Isla Socotra",
+    "country": "Yemen",
+    "continent": "Asia",
+    "image": "images/socotra.jpg"
+  },
+    {
+    "id": 7,
+    "name": "Calzada del Gigante",
+    "country": "Irlanda",
+    "continent": "Europa",
+    "image": "images/giant.jpg"
+  },
+    {
+    "id": 8,
+    "name": "La Ola",
+    "country": "USA",
+    "continent": "América",
+    "image": "images/wave.jpg"
+  }
+]
